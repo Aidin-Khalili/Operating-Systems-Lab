@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+PySide6
+qdarkstyle
+qrcode
+gTTS
+khayyam
+termcolor
+colorama
+arcade
